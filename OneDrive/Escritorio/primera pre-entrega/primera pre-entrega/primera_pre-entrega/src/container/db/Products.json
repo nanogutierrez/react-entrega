@@ -1,0 +1,20 @@
+[
+	{
+		"id": 2,
+		"name": "lemon pie premium",
+		"price": 3500,
+		"stock": 20,
+		"thumbnail": [
+			"https://tse3.mm.bing.net/th?id=OIP.ZidYPDoiQU3OBgA5pqPmGgHaGe&pid=Api&P=0&h=180"
+		]
+	},
+	{
+		"id": 3,
+		"name": "marquise",
+		"price": 4000,
+		"stock": 15,
+		"thumbnail": [
+			"https://tse1.explicit.bing.net/th?id=OIP.QKCI3XeBDZOQVP7A5BMmCwHaD4&pid=Api&P=0&h=180"
+		]
+	}
+]
